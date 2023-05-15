@@ -1,0 +1,5 @@
+type Note {
+    noteId: ID
+    note: String
+    authorId: ID
+}
